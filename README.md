@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm ppbl(二水/泡泡冰麟), a front-end developer (maybe full-stack in the future😌)
+
+![](https://github-readme-stats.vercel.app/api?username=ppbl)
+
+![](https://visitor-badge.glitch.me/badge?page_id=ppbl.ppbl)
